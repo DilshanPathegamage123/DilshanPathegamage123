@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dilshan Pathegamage</h1>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dilshan Pathegamage</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | UI Designer</h3>
 
 <p align="center">
@@ -29,7 +33,7 @@
 <a href="https://linkedin.com/in/dilshan-pathegamage-9a764a305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan-pathegamage-9a764a305" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
+<h2 align="left">Languages and Tools:</h2>
  
   <h3 align="center">Front-End Technologies</h3>
   <p align="center">
@@ -58,7 +62,7 @@
 
 </p>
 
-<h1><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>Contribution Activity</h1>
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>Contribution Activity</h2>
 <div align="center">
     
   <img src="https://github-readme-stats.vercel.app/api?username=dilshanpathegamage123&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
