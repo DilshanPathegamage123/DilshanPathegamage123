@@ -36,9 +36,9 @@
   <a href="mailto:dilshanpathegamage@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email"/>
   </a>
-  <a href="tel:+94784449139" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/phone.png" alt="Phone"/>
-  </a>
+  <a href="tel:+94784449139">
+  <img align="center" src="https://img.icons8.com/fluency/48/000000/phone.png" alt="Phone"/>
+</a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
