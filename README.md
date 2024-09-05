@@ -16,7 +16,7 @@
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on [TicketMate](https://github.com/SILVA-HSL/Software-Project-PTES.git)
+- 🔭 I’m currently working on [NeurA](https://github.com/SILVA-HSL/Software-Project-PTES.git)
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/dilshanpathega](https://www.behance.net/dilshanpathega)
 
