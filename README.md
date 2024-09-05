@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [NeurA](https://github.com/DilshanPathegamage123/Neura-React-js-Gemini-API-ChatBot.git)
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/dilshanpathega](https://www.behance.net/dilshanpathega)
+- 👨‍💻 All of my projects are available at [https://dilshanpathegamage-portfolio.vercel.app/)
 
 - 💬 Ask me about **React Js, Asp.Net, MS SQL, MY SQL, Java, C, TypeScript, Bootstrap**
 
