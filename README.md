@@ -16,7 +16,7 @@
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on [NeurA](https://github.com/DilshanPathegamage123/Neura-React-js-Gemini-API-ChatBot.git)
+- 🔭 I’m currently working on [CompeteNow](https://github.com/DilshanPathegamage123/CompeteNow-FrontEnd.git)
 
 - 👨‍💻 All of my projects are available at [https://dilshanpathegamage-portfolio.vercel.app/)
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **dilshanpathegamage@gmail.com**
 
-- ⚡ Fun fact **Coding is my daily nourishment.**
+- ⚡ Fun fact **Coding is my Daily Nourishment.**
 
 
 
