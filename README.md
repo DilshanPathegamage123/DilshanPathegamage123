@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    This is ME, Dilshan Pathegamage, a <b>3rd year</b> IT undergraduate from <a href="https://uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
+    This is me, Dilshan Pathegamage, a <b>3rd year</b> IT undergraduate from <a href="https://uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
      <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>I'm Passionate about<b> Information Technology and innovations.</b>
     
 </p>
